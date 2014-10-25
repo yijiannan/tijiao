@@ -1,0 +1,107 @@
+
+titlename       = IP雷达
+remoteip        = 远程IP地址
+remoteport      = 远程端口
+localport       = 本地端口
+protocol        = 协 议
+dnsname         = 域 名
+sendbyte        = 总上传字节
+recvbyte        = 总下载字节
+lasttime        = 最近传输时间
+direction       = 方 向
+program         = 程 序
+location        = 地点
+
+unknown         = 未知
+sendbytes       = 总上传字节：
+recvbytes       = 总下载字节：
+sendpackets     = 总上传数据包：
+recvpackets     = 总下载数据包：
+tcpips          = TCP访问IP数：
+udpips          = UDP访问IP数：
+otherips        = 其它访问IP数：
+
+topn_tabwnd_name = TOP 10
+tcp_all_bytes    = TCP流量
+tcp_all_packets  = TCP包数
+tcp_in_bytes     = TCP下载字节
+tcp_in_packets   = TCP下载包数
+tcp_out_bytes    = TCP上传字节
+tcp_out_packets  = TCP上传包数
+udp_all_bytes    = UDP流量
+udp_all_packets  = UDP包数
+udp_in_bytes     = UDP下载字节
+udp_in_packets   = UDP下载包数
+udp_out_bytes    = UDP上传字节
+udp_out_packets  = UDP上传包数
+paiming          = 排名
+topnvalue        = 流量
+topnwnddesc      = 排名数据柱状图
+
+mon_userspeed    = 有效速率
+mon_bsend        = 上传速率
+mon_brcv         = 下载速率
+mon_netutil      = 网络传输效率[％]
+mon_ptotal       = 每秒传输数据包(个/秒)
+mon_psend        = 每秒上传数据包(个/秒)
+mon_prcv         = 每秒下载数据包(个/秒)
+mon_tcpb         = TCP速率(字节/秒)
+mon_tcpsend      = TCP上传速率(字节/秒)
+mon_tcprcv       = TCP下载速率(字节/秒)
+mon_tcpp         = TCP包速率
+mon_tcppsend     = TCP包上传速率
+mon_tcpprcv      = TCP包下载速率
+mon_udpb         = UDP速率(字节/秒)
+mon_udpsend      = UDP上传速率(字节/秒)
+mon_udprcv       = UDP下载速率(字节/秒)
+mon_udpp         = UDP包速率
+mon_udppsend     = UDP包上传速率
+mon_udpprcv      = UDP包下载速率
+
+ipwndname        = 远程IP详细信息
+ipwnd_ip         = 远程IP地址
+ipwnd_port       = 远程端口
+ipwnd_dns        = 域名
+ipwnd_loca       = 地点
+ipwnd_sb         = 总上传字节
+ipwnd_sp         = 总上传包
+ipwnd_rb         = 总下载字节
+ipwnd_rp         = 总下载包
+ipwnd_tb         = 总字节数
+ipwnd_tp         = 总包数
+ipwnd_bpp        = 平均包大小
+ipwnd_sbspeed    = 最近上传字节
+ipwnd_rbspeed    = 最近下载字节
+ipwnd_spspeed    = 最近上传包
+ipwnd_rpspeed    = 最近下载包
+ipwnd_time       = 最近传输时间
+ipwnd_curvtsp    = 速率曲线(单位:B/S)
+ipwnd_curvssp    = 上传网速(单位:B/S)
+ipwnd_curvrsp    = 下载网速曲线(单位:B/S)
+
+chart_label      = 当前值:
+tip_bytepanel    = 当前网速(字节/秒)
+tip_packetpanel  = 当前数据包速率(个/秒)
+tip_panel        = 显示仪表
+tip_curve        = 显示曲线
+tip_graph        = 显示网速详情
+
+panel_ipspeed     = 网络速率(字节/秒)
+panel_packetspeed = 数据包速率(个/秒)
+
+tab_tcp           = TCP
+tab_udp           = UDP
+tab_other         = 其它
+tab_netconn       = 网络连接
+tab_topn          = 流量排名
+
+netconn_tcpudp    = TCP/UDP
+netconn_program   = 程序名
+netconn_lip_port  = 本机IP:端口
+netconn_rip_port  = 远程IP:端口
+netconn_status    = 状  态
+netconn_time      = 开始时间
+netconn_timelen   = 持续时长
+netconn_pid       = PID
+netconn_dnsname   = 域名
+netconn_location  = 位置
